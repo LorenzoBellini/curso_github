@@ -1,4 +1,5 @@
 Lorenzo
+Comentários?
 "git commit 'arquivo' -m "TEXTO" " - comita o arquivo com um comentario
 "git status" mostra se tem algum arquivo que sofreu alteração e precisa ser 'comitados'
 "git add ." já adiciona todos os arquivos da pasta!
