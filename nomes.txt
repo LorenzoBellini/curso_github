@@ -8,3 +8,4 @@ Comentários?
 'git add' antes de 'git commit'
 'git status' antes e/ ou depois
 'git push' pra enviar o arquivo pro GitHub
+'git pull' para puxar arquivos que foram feitos no git mas não estão na máquina
