@@ -1,4 +1,5 @@
 Lorenzo
+Mais um nome?
 Comentários?
 "git commit 'arquivo' -m "TEXTO" " - comita o arquivo com um comentario
 "git commit  -m "TEXTO" " - comita todos os arquivos com um comentario
