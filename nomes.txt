@@ -7,3 +7,4 @@ Comentários?
 "git status" mostra se tem algum arquivo que sofreu alteração e precisa ser 'comitados'
 'git add' antes de 'git commit'
 'git status' antes e/ ou depois
+'git push' pra enviar o arquivo pro GitHub
