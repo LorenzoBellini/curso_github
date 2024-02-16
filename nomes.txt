@@ -11,3 +11,4 @@ Comentários?
 'git pull' para puxar arquivos que foram feitos no git mas não estão na máquina
 'git log' para receber todas as mudanças e atualizações do arquivo/ programa "Para sair escreve 'q'"
 'git checkout "nome do arquivo" ' volta para outro 'momento' do arquivo desejado (volta até um momento antes de ser modificado)
+'git reset --hard origin/"nome do branch" ' reseta o arquivo para o último salvo no GitHub
