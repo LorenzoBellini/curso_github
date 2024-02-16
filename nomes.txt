@@ -9,3 +9,4 @@ Comentários?
 'git status' antes e/ ou depois
 'git push' pra enviar o arquivo pro GitHub
 'git pull' para puxar arquivos que foram feitos no git mas não estão na máquina
+'git log' para receber todas as mudanças e atualizações do arquivo/ programa
