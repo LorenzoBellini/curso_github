@@ -1,7 +1,9 @@
 Lorenzo
 Mais um nome?
 Comentários?
+"git add ." já adiciona todos os arquivos da pasta!
 "git commit 'arquivo' -m "TEXTO" " - comita o arquivo com um comentario
 "git commit  -m "TEXTO" " - comita todos os arquivos com um comentario
 "git status" mostra se tem algum arquivo que sofreu alteração e precisa ser 'comitados'
-"git add ." já adiciona todos os arquivos da pasta!
+'git add' antes de 'git commit'
+'git status' antes e/ ou depois
