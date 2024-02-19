@@ -13,6 +13,9 @@ Comando para ir até uma branch específica 'git checkout "nome_da_branch"'
 Comando para criar uma branch e ir para ela 'git checkout -b "nome_da_branch"'
 Comando para excluir branches 'git branch -d "nome_da_branch"'
 Comando para juntar branches 'git merge "nome_da_branch"' (vai juntar a branch na main)
+Comando para voltar ao último commit feito da branch 'git stash'
+Comando para ver os git stash 'git stash list'
+Comando para reverter o stash 'git stash apply 'ID da stash' (0, 1, 2...)'
 Para saber em qual branch está trabalhando, git branch = a branch que estiver
 em verde com asterisco é a branch que você está atualmente
 
