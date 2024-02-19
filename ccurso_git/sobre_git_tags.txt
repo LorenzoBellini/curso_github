@@ -5,3 +5,6 @@ Comando para ver o que tem em cada tag 'git show "nome da tag"'
 Comando para alternar entre tags 'git checkout (igual às branches) "nome da tag"'
 Comando para enviar tag específica para Github 'git push origin "nome da tag"'
 Comando para enviar todas as tag para Github '
+
+Teste teste para tag 2.0 
+alo alo
