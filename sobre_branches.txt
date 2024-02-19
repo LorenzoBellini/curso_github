@@ -1,0 +1,8 @@
+As branches são uma maneira que o GitHub disponibilizou para separar versões do
+projeto que nos ajudam a gerenciá-lo de maneira mais eficiente e organizada
+
+Ao criar um projeto novo ele SEMPRE inicia na Branch main 
+
+Branches são muito utilizadas em projetos com vários DEVs para separar o que cada
+fez e está fazendo, o que cada um faz em sua branch fica em sua branch, e depois
+tudo é combinado em um arquivo só (merge)
