@@ -9,6 +9,7 @@ Comando para clonar o arquivo (vai pro github e copia o código do arquivo) 'git
 (lembrar do espaço . do comando acima!)
 Comando para dar push em arquivo clonado 'git push --set-upstream origin "nome da branch"'
 Comando para buscar branches que não estão no programa atual 'git fetch -a'
+Comando utilizado para dar mais performance para nosso repositótio 'git gc'
 
 
 Teste teste para tag 2.0, agora sim
