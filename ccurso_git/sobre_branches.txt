@@ -10,5 +10,10 @@ tudo é combinado em um arquivo só (merge)
 Comando para visualizar as branches 'git branch'
 Comando para criar uma nova branch 'git branch "nome_da_branch"
 Comando para ir até uma branch específica 'git checkout "nome_da_branch"'
+Comando para criar uma branch e ir para ela 'git checkout -b "nome_da_branch"'
+Comando para excluir branches 'git branch -d "nome_da_branch"'
+Comando para juntar branches 'git merge "nome_da_branch"' (vai juntar a branch na main)
 Para saber em qual branch está trabalhando, git branch = a branch que estiver
 em verde com asterisco é a branch que você está atualmente
+
+Todas as modificações feitas nas branches, ficarão nas branches até ser feito o merge
