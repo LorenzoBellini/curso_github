@@ -6,3 +6,9 @@ Ao criar um projeto novo ele SEMPRE inicia na Branch main
 Branches são muito utilizadas em projetos com vários DEVs para separar o que cada
 fez e está fazendo, o que cada um faz em sua branch fica em sua branch, e depois
 tudo é combinado em um arquivo só (merge)
+
+Comando para visualizar as branches 'git branch'
+Comando para criar uma nova branch 'git branch "nome_da_branch"
+Comando para ir até uma branch específica 'git checkout "nome_da_branch"'
+Para saber em qual branch está trabalhando, git branch = a branch que estiver
+em verde com asterisco é a branch que você está atualmente
