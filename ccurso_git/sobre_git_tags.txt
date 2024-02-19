@@ -1,3 +1,6 @@
 Comando para criar tag 'git tag -a "Nome da tag que quer criar" -m "descrição da tag"'
 Comando para ver a tag criada 'git tag'
 Comando para ver o que tem em cada tag 'git show "nome da tag"'
+Comando para alternar entre tags 'git checkout (igual às branches) "nome da tag"'
+Comando para enviar tag específica para Github 'git push origin "nome da tag"'
+Comando para enviar todas as tag para Github '
