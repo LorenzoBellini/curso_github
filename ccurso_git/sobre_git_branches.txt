@@ -16,6 +16,7 @@ Comando para juntar branches 'git merge "nome_da_branch"' (vai juntar a branch n
 Comando para voltar ao último commit feito da branch 'git stash'
 Comando para ver os git stash 'git stash list'
 Comando para reverter o stash 'git stash apply 'ID da stash' (0, 1, 2...)'
+Comando para ver o que foi feito em cada stash 'git stash show -p 'ID da stash'
 Para saber em qual branch está trabalhando, git branch = a branch que estiver
 em verde com asterisco é a branch que você está atualmente
 

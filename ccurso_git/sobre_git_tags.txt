@@ -1,0 +1,1 @@
+Comando para criar tag 'git tag -a "Nome da tag que quer criar" -m "descrição da tag"'
