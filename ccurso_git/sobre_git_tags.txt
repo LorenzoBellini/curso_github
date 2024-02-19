@@ -12,4 +12,4 @@ Comando para buscar branches que não estão no programa atual 'git fetch -a'
 Comando para dar mais performance para nosso repositótio 'git gc'
 Comando para ver a linha do tempo do projeto 'git shortlog'
 Comando para comparar arquivos modificados com os que estão no GitHub 'git diff'
-serse funciona
+Comando diff para arquivo específico 'git diff HEAD: "nome do arquivo"'
