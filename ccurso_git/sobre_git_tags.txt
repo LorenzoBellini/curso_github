@@ -5,6 +5,8 @@ Comando para ver o que tem em cada tag 'git show "nome da tag"'
 Comando para alternar entre tags 'git checkout (igual às branches) "nome da tag"'
 Comando para enviar tag específica para Github 'git push origin "nome da tag"'
 Comando para enviar todas as tag para Github 'git push origin --tags'
+Comando para clonar o arquivo (vai pro github e copia o código do arquivo) 'git clone "link do arquivo" .'
+(lembrar do espaço . do comando acima!)
 
 Teste teste para tag 2.0, agora sim
 alo alo
