@@ -7,6 +7,7 @@ Comando para enviar tag específica para Github 'git push origin "nome da tag"'
 Comando para enviar todas as tag para Github 'git push origin --tags'
 Comando para clonar o arquivo (vai pro github e copia o código do arquivo) 'git clone "link do arquivo" .'
 (lembrar do espaço . do comando acima!)
+Comando para dar push em arquivo clonado 'git push --set-upstream origin cadastro'
 
 Teste teste para tag 2.0, agora sim
 alo alo
