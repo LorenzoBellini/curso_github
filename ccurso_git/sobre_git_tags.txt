@@ -4,7 +4,7 @@ Comando para ver a tag criada 'git tag'
 Comando para ver o que tem em cada tag 'git show "nome da tag"'
 Comando para alternar entre tags 'git checkout (igual às branches) "nome da tag"'
 Comando para enviar tag específica para Github 'git push origin "nome da tag"'
-Comando para enviar todas as tag para Github '
+Comando para enviar todas as tag para Github 'git push origin --tags'
 
 Teste teste para tag 2.0, agora sim
 alo alo
