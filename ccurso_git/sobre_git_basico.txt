@@ -1,6 +1,4 @@
-Lorenzo
-Mais um nome?
-Comentários?
+Comandos básicos do git
 'git init' comando para iniciar um repositório
 "git add ." já adiciona todos os arquivos da pasta!
 "git commit 'arquivo' -m "TEXTO" " - comita o arquivo com um comentario
